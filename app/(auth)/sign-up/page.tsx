@@ -1,3 +1,4 @@
+export const runtime = 'edge'
 import AuthForm from '@/components/AuthForm'
 
 const SignUp = async () => {
