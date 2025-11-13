@@ -1,4 +1,3 @@
-export const runtime = 'edge'
 import HeaderBox from '@/components/HeaderBox'
 import { Pagination } from '@/components/Pagination';
 import TransactionsTable from '@/components/TransactionsTable';
